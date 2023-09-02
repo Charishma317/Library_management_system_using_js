@@ -1,2 +1,3 @@
-# projectscj
-HTML,CSS, JS PROJECTS 
+
+Check the doc file
+admin link: brains/adm.php
